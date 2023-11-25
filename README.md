@@ -1,4 +1,4 @@
-# DataXchange 🌐
+# dataXchange 🌐
 
 DataXchange is an advanced data exchange platform, integrating real-time functionalities with Ably and robust web application development using Next.js. It's designed for businesses and data professionals who need efficient, secure, and scalable data exchange solutions.
 

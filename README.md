@@ -63,21 +63,21 @@ Add additional notes about how to deploy this on a live system. For example:
 
 ## Contributing 🤝
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning 🏷️
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your-username/dataXchange-app/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/walnuta1/dataXchange/tags).
 
 ## Authors 👥
 
-- **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
+- **Skyler Seegmiller** - *CEO, ML+DL+Software Engineer* - [suntzu22](https://github.com/suntzu22)
 
-See also the list of [contributors](https://github.com/your-username/dataXchange-app/contributors) who participated in this project.
+See also the list of [(https://github.com/walnuta1/dataXchange/blob/main/CONTRIBUTING.md) who participated in this project.
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/walnuta1/dataXchange/blob/main/LICENSE) file for details
 
 ## Acknowledgments 🎉
 
